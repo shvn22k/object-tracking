@@ -83,6 +83,15 @@ Training curves, loss graphs, and prediction samples are available in the `outpu
 
 ---
 
+## Sample output frames
+
+![op1](https://github.com/shvn22k/object-tracking/blob/main/sample1.png)
+![op2](https://github.com/shvn22k/object-tracking/blob/main/sample2.png)
+![op3](https://github.com/shvn22k/object-tracking/blob/main/sample3.png)
+
+---
+
+
 ## Tools Used
 
 - Python
