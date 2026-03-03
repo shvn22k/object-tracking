@@ -9,7 +9,8 @@ data/
 # Training outputs
 runs/
 outputs/
-kaggle/working/
+output_*/
+kaggle/
 *.log
 
 # Model weights
