@@ -2,6 +2,7 @@
 sack-1/
 dataset/
 data/
+custom-dataset/
 *.zip
 *.tar
 *.rar
@@ -11,7 +12,11 @@ runs/
 outputs/
 output_*/
 kaggle/
+results/
 *.log
+
+# Input videos
+input videos/
 
 # Model weights
 *.pt

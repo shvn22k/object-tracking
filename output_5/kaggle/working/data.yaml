@@ -1,6 +1,0 @@
-
-train: /kaggle/input/datasets/shvn22k/custom-sacks/train/images
-val: /kaggle/input/datasets/shvn22k/custom-sacks/valid/images
-
-nc: 1
-names: ['sack']
