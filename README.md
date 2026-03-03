@@ -79,8 +79,7 @@ The final model detects sacks reliably in most frames. Counting accuracy depends
 
 Training curves, loss graphs, and prediction samples are available in the `outputs/` folder.
 
-![results_image](<img width="2400" height="1200" alt="image" src="https://github.com/user-attachments/assets/6cb68121-b017-4b65-bdcb-17673efa4d64" />
-)
+![results_image](https://github.com/shvn22k/object-tracking/blob/main/results.png)
 
 ---
 
