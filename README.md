@@ -67,10 +67,10 @@ Training was done on **Kaggle** (GPU enabled). The training notebook is included
 
 ---
 
-## Results
+## Results [here](https://drive.google.com/drive/folders/1GjO4C9p6XIftdXhKj_EQxCd6oZCdv2Yu?usp=sharing)
 
-- **Video 2** (stable camera) produced the most accurate counts
-- **Video 1 and 3** were less stable due to:
+- **Video 1** (stable camera) produced the most accurate counts
+- **Video 2 and 3** were less stable due to:
   - Camera movement
   - Background activity
   - Workers moving randomly
@@ -79,7 +79,8 @@ The final model detects sacks reliably in most frames. Counting accuracy depends
 
 Training curves, loss graphs, and prediction samples are available in the `outputs/` folder.
 
-![results_image](C:\Projects\obj-detection-counting\output_5\kaggle\working\custom_sack_detection\results.png)
+![results_image](<img width="2400" height="1200" alt="image" src="https://github.com/user-attachments/assets/6cb68121-b017-4b65-bdcb-17673efa4d64" />
+)
 
 ---
 
